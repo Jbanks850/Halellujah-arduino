@@ -114,7 +114,6 @@ int melody [] = {
   NOTE_A2, 8, 
   
   // Artemio code starts here below 
-  int C4 = 262;
  
   // Chris code starts here below
 
