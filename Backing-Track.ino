@@ -114,7 +114,31 @@ int melody [] = {
   NOTE_A2, 8, 
   
   // Artemio code starts here below 
- 
+ NOTE_C3, 8, NOTE_G3, 8, NOTE_C4, 8, 
+  NOTE_E4, 8, NOTE_C4, 8, NOTE_B2, 8, 
+  NOTE_A2, 8, NOTE_E3, 8, NOTE_A3, 8, 
+  NOTE_C4, 8, NOTE_A3, 8, NOTE_A2, 8, 
+  NOTE_C3, 8, NOTE_G3, 8, NOTE_C4, 8, 
+  NOTE_E4, 8, NOTE_C4, 8, NOTE_B2, 8, 
+  NOTE_A2, 8, NOTE_E3, 8, NOTE_A3, 8, 
+  NOTE_C4, 8, NOTE_A3, 8, NOTE_A2, 8, 
+  NOTE_C3, 8, NOTE_G3, 8, NOTE_C4, 8, 
+  NOTE_E4, 8, NOTE_C4, 8, NOTE_B2, 8, 
+  NOTE_A2, 8, NOTE_E3, 8, NOTE_A3, 8, 
+  NOTE_C4, 8, NOTE_A3, 8, NOTE_A2, 8, 
+  NOTE_F2, 8, NOTE_C3, 8, NOTE_F3, 8, 
+  NOTE_A3, 8, NOTE_F3, 8, NOTE_F2, 8,
+  NOTE_G2, 8, NOTE_D3, 8, NOTE_G3, 8,
+  NOTE_B3, 8, NOTE_G3, 8, NOTE_G2, 8,
+  NOTE_C3, 8, NOTE_G3, 8, NOTE_C4, 8,
+  NOTE_E4, 8, NOTE_C4, 8, NOTE_C3, 8,
+  NOTE_G2, 8, NOTE_D3, 8, NOTE_G3, 8,
+  NOTE_B3, 8, NOTE_G3, 8, NOTE_D3, 8,
+  NOTE_C3, 8, NOTE_G3, 8, NOTE_C4, 4,
+  NOTE_C4, 8, NOTE_C3, 8,
+  NOTE_F2, 8, NOTE_C3, 8, NOTE_F3, 8,
+  NOTE_G2, 8, NOTE_D3, 8, NOTE_G3, 8,
+
   // Chris code starts here below
 NOTE_A2, 8, NOTE_E3, 8, NOTE_A3, 8, NOTE_C4, 8, NOTE_A3, 8, NOTE_A2, 8,
 NOTE_F2, 8, NOTE_C3, 8, NOTE_F3, 8, NOTE_A3, 8, NOTE_F3, 8, NOTE_F2, 8,
